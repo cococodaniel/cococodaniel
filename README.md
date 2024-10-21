@@ -9,5 +9,6 @@
 <!---
 cococodaniel/cococodaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> i am a student of department of eletrical engineering i'm stidy of l
+---> i am a student of department of eletrical engineering i'm study for Lunghwa University of Science and Technology
+
 
